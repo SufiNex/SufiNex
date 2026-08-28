@@ -1,57 +1,67 @@
-# Hi 👋, I'm Mohammad Sufiyan
+# Hi, I'm Mohammad Sufiyan 👋
 
-### 🚀 B.Tech Student | Learning Data Science & Python
+### Aspiring Data Analyst | Python • SQL • Data Analysis • Machine Learning
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I’m an aspiring Data Analyst with a strong interest in turning data into meaningful insights and supporting data-driven decision-making.
 
-- 🌱 Currently learning **Python, NumPy, Pandas & Data Science**
-- 💻 Interested in **AI & Machine Learning**
-- 📚 Exploring **GitHub and Open Source**
-- 🎯 Goal: Become a Data Scientist
-- ⚡ Fun fact: I love coding and learning new tech
+I’m currently building my technical and analytical skills through hands-on projects, practical learning, and consistent practice.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Skills & Technologies
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
+- 🐍 Python
+- 🗄️ SQL
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Power BI
+- 📈 Data Visualization
+- 🤖 Machine Learning
 
 ---
 
-# 💻 Tech Stack
+## 📌 Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode" />
-</p>
+### 🎬 Netflix Data Analysis
+Exploratory data analysis project focused on understanding patterns, trends, and insights from Netflix data.
 
----
-
-# 📊 GitHub Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=0132CS231041Sufiyan&theme=tokyonight&hide_border=true" />
-</p>
-
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/0132CS231041Sufiyan/0132CS231041Sufiyan/blob/output/github-contribution-grid-snake.svg)
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-### ✨ Quote
+## 🎯 Currently Learning
 
-> “Consistency is more important than perfection.”
+- Data Analysis
+- Machine Learning
+- SQL
+- Data Visualization
+- Exploratory Data Analysis
+- Building real-world data projects
 
 ---
+
+## 📊 What I Enjoy
+
+- Exploring and cleaning datasets
+- Finding patterns and trends in data
+- Creating meaningful visualizations
+- Solving problems using data
+- Building practical projects
+
+---
+
+## 🚀 Career Goal
+
+I’m looking to begin my career as a **Data Analyst**, where I can apply my skills to real-world problems, learn from experienced professionals, and contribute to a growth-oriented organization.
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** mohammadsufiyan26219@gmail.com
+
+🔗 **LinkedIn:** [Mohammad Sufiyan](https://www.linkedin.com/in/mohammad-sufiyan-b41186317/)
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
