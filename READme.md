@@ -42,7 +42,6 @@ I'm also exploring advanced AI technologies as part of my learning journey.
 **Data Analysis & Visualization**
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
-- Power BI
 
 **Machine Learning**
 - Scikit-learn
@@ -86,10 +85,10 @@ I'm also exploring advanced AI technologies as part of my learning journey.
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SufiNex&theme=dark&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="85%" alt="GitHub Streak Stats"/>
 </p>
 
 ---
