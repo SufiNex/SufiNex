@@ -83,11 +83,11 @@ An exploratory data analysis project focused on understanding patterns, trends, 
 
 ---
 
+
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0132CS231041Sufiyan" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=SufiNex&theme=dark&hide_border=true&timezone=Asia%2FKolkata)
+
 
 ---
 
