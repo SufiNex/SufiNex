@@ -88,7 +88,11 @@ I'm also exploring advanced AI technologies as part of my learning journey.
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="85%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufiByte&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" width="80%" alt="SufiByte GitHub Streak" />
+</p>
+
+<p align="center">
+  <i>Building consistency, one commit at a time.</i>
 </p>
 
 ---
