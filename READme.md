@@ -67,4 +67,18 @@ I am an aspiring Data Scientist with a strong interest in Data Science, Machine 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https
+  <a href="https://www.linkedin.com/in/mohammad-sufiyan-b41186317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mohammadsufiyan26219@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>✨ Learning Every Day | Exploring Data & AI ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F52FF&height=100&section=footer" />
+</p>
