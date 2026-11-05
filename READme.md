@@ -1,116 +1,63 @@
 # Hi, I'm Mohammad Sufiyan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Data+Analysis;Machine+Learning+Enthusiast;Exploring+AI+and+Generative+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Exploring+AI+%26+Generative+AI" />
 </p>
 
-<table>
-<tr>
-<td width="65%">
+## 👨‍💻 About Me
 
-### Aspiring Data Scientist | Python • SQL • Machine Learning
+I'm an aspiring Data Scientist passionate about Python, Data Analysis, Machine Learning, and Artificial Intelligence.
 
-I'm an aspiring Data Scientist with a strong interest in data, technology, and problem-solving.
-
-I'm currently developing my skills in Python, SQL, Data Analysis, and Machine Learning through continuous learning and practical exercises.
-
-I'm also exploring advanced AI technologies as part of my learning journey.
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
-
-</td>
-</tr>
-</table>
-
----
+- 🎓 B.Tech in Computer Science
+- 🐍 Learning Python and its libraries
+- 📊 Exploring Data Analysis and EDA
+- 🤖 Practising Machine Learning
+- 🧠 Exploring NLP, Deep Learning, LLMs and RAG
 
 ## 🛠️ Skills & Technologies
 
-**Programming**
-- Python
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn" />
+</p>
 
-**Python Libraries**
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-**Data Analysis & Visualization**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-
-**Machine Learning**
-- Scikit-learn
-- Regression
-- Classification
-- Feature Engineering
-- Model Evaluation
-
----
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ## 📚 Currently Learning
 
 - Machine Learning
 - Natural Language Processing (NLP)
 - Deep Learning
-- Neural Networks
 - Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- LLMs & RAG
 
----
-
-## 🚀 My Learning Journey
-
-- Building a strong foundation in Python and SQL.
-- Learning data analysis and visualization techniques.
-- Understanding Machine Learning algorithms and concepts.
-- Exploring Deep Learning and NLP.
-- Learning about LLMs, RAG, and Generative AI.
-
----
-
-## 📊 What I Enjoy
-
-- Exploring and analyzing datasets.
-- Finding patterns and insights in data.
-- Learning Machine Learning algorithms.
-- Understanding how AI models work.
-- Exploring new technologies.
-- Solving problems through programming.
-
----
-
-## 🔥 GitHub Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufiNex&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" width="80%" alt="SufiNex GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SufiNex&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
-
-<p align="center">
-  <i>Building consistency, one commit at a time.</i>
-</p>
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a Data Scientist, where I can apply my programming, analytical, and Machine Learning skills to solve real-world problems. I aim to continuously improve my knowledge and explore emerging AI technologies.
-
----
 
 ## 🤝 Connect With Me
 
-📧 **Email:** mohammadsufiyan26219@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-sufiyan-b41186317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mohammadsufiyan26219@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
-🔗 **LinkedIn:** [Mohammad Sufiyan](https://www.linkedin.com/in/mohammad-sufiyan-b41186317/)
+<p align="center">
+  ⭐ Learning Every Day | Exploring Data & AI
+</p>
 
-🐙 **GitHub:** [SufiNex](https://github.com/SufiNex)
-
----
-
-⭐ Feel free to explore my repositories and follow my learning journey!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=footer"/>
+</p>
