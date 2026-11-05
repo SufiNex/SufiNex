@@ -10,13 +10,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science
-- 🐍 Learning Python and its libraries
-- 📊 Exploring Data Analysis and EDA
-- 🤖 Practising Machine Learning
-- 🧠 Exploring NLP and Deep Learning
-- 🚀 Interested in Generative AI, LLMs and RAG
-- 🎯 Focused on building practical skills and projects
+I am an aspiring Data Scientist with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
+
+- 🎓 Pursuing B.Tech in Computer Science.
+- 🐍 Learning Python and its libraries.
+- 📊 Working with NumPy, Pandas, Matplotlib, and Seaborn.
+- 🗄️ Practising SQL and Excel for data analysis.
+- 🤖 Learning and practising Machine Learning algorithms.
+- 🧠 Exploring NLP, Deep Learning, Generative AI, LLMs, and RAG.
+- 🎯 Focused on improving my skills and building real-world projects.
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -38,13 +40,13 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ## 📚 Currently Learning
 
 - Machine Learning
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Deep Learning
 - Generative AI
 - Large Language Models (LLMs)
@@ -53,31 +55,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SufiNex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiNex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SufiNex&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SufiNex&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-sufiyan-b41186317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mohammadsufiyan26219@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>✨ Learning Every Day | Exploring Data & AI ✨</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F52FF&height=100&section=footer" />
-</p>
+  <a href="https
