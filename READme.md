@@ -88,7 +88,7 @@ I'm also exploring advanced AI technologies as part of my learning journey.
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufiByte&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" width="80%" alt="SufiByte GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufiNex&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" width="80%" alt="SufiNex GitHub Streak" />
 </p>
 
 <p align="center">
