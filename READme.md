@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Exploring+AI+%26+Generative+AI" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 ## 👨‍💻 About Me
 
 I'm an aspiring Data Scientist passionate about Python, Data Analysis, Machine Learning, and Artificial Intelligence.
@@ -25,7 +29,6 @@ I'm an aspiring Data Scientist passionate about Python, Data Analysis, Machine L
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ## 📚 Currently Learning
@@ -39,18 +42,24 @@ I'm an aspiring Data Scientist passionate about Python, Data Analysis, Machine L
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SufiNex&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SufiNex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiNex&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SufiNex&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="85%" alt="GitHub Streak"/>
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-sufiyan-b41186317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohammadsufiyan26219@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
